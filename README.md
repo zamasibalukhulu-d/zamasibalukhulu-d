@@ -1,10 +1,14 @@
-# JUNIOR DATA ANALYST | BUSINESS ANALYST 
+# HI🙋🏽‍♀️, I am Zamasibalukhulu, A Junior Data Analyst Exploring The Tech World!!
 
-working with data, building systems.
-
+I am **currently**:
+_- Buidling systems
+- working with data to equip businesses for decision-making📊
+- Exploring the multi-faceated tech world👩🏽‍💻
+- Drinking coffee☕
+- Creative projects🎨
+_
 ---
 
-- 🔭 Currently working on **building apps on C#, making a career in data**
 
 ## 🛠 Skills
 
