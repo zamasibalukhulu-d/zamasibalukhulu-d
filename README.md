@@ -1,12 +1,12 @@
 # HI🙋🏽‍♀️, I am Zamasibalukhulu, A Junior Data Analyst Exploring The Tech World!!
 
 I am **currently**:
-_- Buidling systems
+
+- Buidling systems
 - working with data to equip businesses for decision-making📊
 - Exploring the multi-faceated tech world👩🏽‍💻
 - Drinking coffee☕
 - Creative projects🎨
-_
 ---
 
 
