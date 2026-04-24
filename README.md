@@ -27,7 +27,14 @@ I am **currently**:
 **Notebooks & tools**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=fff) ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=412402)
 
+## Skill spiral
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/skill_spiral.svg" width="420" alt="Skill spiral radar chart" />
+
+</div>
+
+> *Spiral generated from CV — see [skill_spiral.html](./skill_spiral.html) for the interactive version*
 
 
 
