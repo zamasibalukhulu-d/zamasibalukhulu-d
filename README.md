@@ -31,7 +31,8 @@ I am **currently**:
 
 
 
-
+## Skill Spiral
+[View my interactive skill spiral](https://zamasibalukhulu-d.github.io/zamasibalukhulu/skill_spiral.html)
 
 
 
