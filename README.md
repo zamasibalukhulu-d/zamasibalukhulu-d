@@ -6,7 +6,7 @@ I am **currently**:
 - Buidling systems
 - working with data to equip businesses for decision-making📊
 - Exploring the multi-faceated tech world👩🏽‍💻
-- Drinking coffee☕
+- Drinking coffee and tea☕
 - Creative projects🎨
 ---
 
